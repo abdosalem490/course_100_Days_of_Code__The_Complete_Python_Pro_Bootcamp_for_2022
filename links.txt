@@ -68,3 +68,43 @@ Courses fixes - report issues:
 /***************************************************************
   SECTION 2	          
 ***************************************************************/
+
+calculator program:
+	https://replit.com/@appbrewery/tip-calculator-end?embed=1&output=1#main.py
+
+day2 start:
+	https://replit.com/@appbrewery/day-2-start
+
+Exercise -  data types:
+	https://replit.com/@appbrewery/day-2-1-exercise?v=1
+
+BMI Exaplained:
+	https://en.wikipedia.org/wiki/Body_mass_index
+
+BMI calculator exercise:
+	https://replit.com/@appbrewery/day-2-2-exercise?v=1
+
+your life in weeks explanation:
+	https://waitbutwhy.com/2014/05/life-weeks.html
+
+life in weeks exercise:
+	https://replit.com/@appbrewery/day-2-3-exercise?v=1
+
+Tip calculator start:
+	https://replit.com/@appbrewery/tip-calculator-start
+
+Tip calculator end:
+	https://replit.com/@appbrewery/tip-calculator-end
+
+report issue:
+	https://docs.google.com/forms/d/e/1FAIpQLSdwbmx2whgRNiciYXiSs2lJT6-dOYgvqGnXdVqfLv1fjln7kw/viewform
+
+floating point arithmeatic:
+	https://docs.python.org/3/tutorial/floatingpoint.html
+
+FAQ - how to get 2 decimal places:
+	https://www.udemy.com/course/100-days-of-code/learn/lecture/17841394#questions/13315048
+
+/***************************************************************
+  SECTION 3	          
+***************************************************************/
